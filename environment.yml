@@ -12,7 +12,7 @@ dependencies:
   - sklearn-json>=0.1.0
   - biopython>=1.73
   - pandas>=1.0.1
-  - scikit-learn~=0.21
+  - scikit-learn>=0.21
   - scipy>=1.2.0
   - tqdm>=4.38.0
   - loguru>=0.5.3
